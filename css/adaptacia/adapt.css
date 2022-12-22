@@ -1,0 +1,39 @@
+
+
+  @media screen and (max-width:1200px) {
+    .uslugi {
+      flex-flow: column nowrap;
+    
+    }
+   
+  }
+  @media screen and (max-width: 1200px) {
+    .meropr {
+        
+      margin-top: 30px;
+    }
+   
+  }
+  @media screen and (max-width: 1200px) {
+    .text6 {
+        
+      margin-bottom: 15px;
+    }
+   
+  }
+  @media screen and (max-width: 1200px) {
+    .text3 {
+        
+      margin-left: 13%;
+    }
+   
+  }
+  @media screen and (max-width: 1200px) {
+    .fiz {
+        
+      margin-top: 8%;
+      
+    }
+ 
+  }
+  
